@@ -1,0 +1,148 @@
+[15-May-2024 08:21:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Jurnal.php(100): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:21:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Artikel.php(2): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'monito29_admin'@'localhost' to database 'db_jurnal' in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Artikel.php(2): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:23:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'monito29_admin'@'localhost' to database 'db_jurnal' in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Artikel.php(2): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:25:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'monito29_admin'@'localhost' to database 'db_jurnal' in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Artikel.php(2): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:25:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'monito29_admin'@'localhost' to database 'db_jurnal' in /home/monito29/public_html/Koneksi.php:2
+Stack trace:
+#0 /home/monito29/public_html/Koneksi.php(2): mysqli_connect()
+#1 /home/monito29/public_html/Halaman_Artikel.php(2): include('/home/monito29/...')
+#2 {main}
+  thrown in /home/monito29/public_html/Koneksi.php on line 2
+[15-May-2024 08:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 87
+[15-May-2024 08:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 4
+[15-May-2024 08:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 6
+[15-May-2024 09:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function popen() in /home/monito29/public_html/Halaman_Home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 6
+[15-May-2024 09:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 7
+[15-May-2024 09:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:20:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function shell_exec() in /home/monito29/public_html/Halaman_Home.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 8
+[15-May-2024 09:43:28 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/monito29/public_html/Halaman_Artikel.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 164
+[15-May-2024 09:49:35 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/monito29/public_html/Halaman_Artikel.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 164
+[15-May-2024 11:25:13 UTC] PHP Warning:  Undefined array key 2 in /home/monito29/public_html/Halaman_Home.php on line 98
+[15-May-2024 11:25:13 UTC] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, null given in /home/monito29/public_html/Halaman_Home.php:98
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Home.php(98): fclose()
+#1 /home/monito29/public_html/Halaman_Home.php(124): runPythonScript()
+#2 {main}
+  thrown in /home/monito29/public_html/Halaman_Home.php on line 98
+[15-May-2024 11:40:18 UTC] PHP Parse error:  syntax error, unexpected identifier "progress", expecting "," or ";" in /home/monito29/public_html/Halaman_Home.php on line 106
+[15-May-2024 11:51:27 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[15-May-2024 12:26:05 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in /home/monito29/public_html/Halaman_Artikel.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 166
+[16-May-2024 04:37:31 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:02:40 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:03:31 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:03:58 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:04:23 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:19:39 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
+[04-Jun-2024 04:20:58 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/monito29/public_html/Halaman_Artikel.php:220
+Stack trace:
+#0 /home/monito29/public_html/Halaman_Artikel.php(220): implode()
+#1 {main}
+  thrown in /home/monito29/public_html/Halaman_Artikel.php on line 220
